@@ -3,6 +3,9 @@ install  k8s cluster  manually with vagrant
 
 
 
+##  方案1：
+https://github.com/kubernetes-incubator/kubespray    
+
 
 #### Reference
 
