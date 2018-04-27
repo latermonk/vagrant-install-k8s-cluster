@@ -7,6 +7,20 @@ install  k8s cluster  manually with vagrant
 https://github.com/kubernetes-incubator/kubespray    
 
 
+##  方案2：
+https://github.com/kubernetes/kops   
+
+
+
+
+
+
+
+
+
+==
+
+
 #### Reference
 
 https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster/blob/master/README-cn.md     
